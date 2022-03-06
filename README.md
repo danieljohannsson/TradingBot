@@ -1,0 +1,2 @@
+# TradingBot
+Using MACD signal
